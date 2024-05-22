@@ -1,0 +1,4 @@
+Write whatever you think should be done here as we progress:
+
+
+1. The website responsiveness will be taken care of later after styling to imporove sync
